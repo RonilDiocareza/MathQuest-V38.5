@@ -1,0 +1,59 @@
+name: flutter_mathquest
+description: A Flutter project
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.37.0
+  flutter_lints: ^6.0.0
+  shared_preferences: ^2.2.3
+  just_audio: ^0.9.33
+  easy_localization: ^3.0.0
+  crypto: ^3.0.7
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  cloud_firestore: ^6.4.1
+  cloud_functions: ^6.0.0
+  path_provider: ^2.1.0
+  image_picker: ^1.0.0
+  firebase_storage: ^13.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  image: ^4.0.17
+  flutter_launcher_icons: 0.14.4
+  just_audio_platform_interface: ^4.5.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/Icon/
+    - assets/images/numbers/
+    - assets/images/player/
+    - assets/images/teacher/female_teacher.png
+    - assets/images/teacher/male_teacher.png
+    - assets/BGM/
+    - assets/about_us/
+    - assets/images/npcs/np1.png
+    - assets/images/npcs/npc2.png
+    - assets/images/npcs/npc3.png
+    - assets/images/npcs/npc4.png
+    - assets/images/npcs/npc5.png
+    - assets/images/npcs/npc6.png
+    - assets/images/npcs/guide1.png
+    - assets/images/npcs/guide2.png
+    - assets/maps/
+    - assets/tiles/
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/Icon/Icon.png"

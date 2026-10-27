@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <script>
+        function c(){
+            let ask = confirm('delete this?');
+
+            document.getElementById('res').textContent = (ask==true)? 'you click ok' : 'next time nalang';
+        }
+    </script>
+    <button onclick="c()">delete</button>
+    <span id="res">why?</span>
+</body>
+</html>

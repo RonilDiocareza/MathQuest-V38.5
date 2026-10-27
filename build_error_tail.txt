@@ -1,0 +1,120 @@
+﻿[        ] > Task :just_audio:prepareLintJarForPublish UP-TO-DATE
+[        ] Caching disabled for task ':just_audio:prepareLintJarForPublish' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':just_audio:prepareLintJarForPublish' as it is up-to-date.
+[        ] Resolve mutations for :just_audio:mergeDebugJavaResource (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :just_audio:mergeDebugJavaResource (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :just_audio:mergeDebugJavaResource UP-TO-DATE
+[        ] Caching disabled for task ':just_audio:mergeDebugJavaResource' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':just_audio:mergeDebugJavaResource' as it is up-to-date.
+[        ] Resolve mutations for :just_audio:syncDebugLibJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :just_audio:syncDebugLibJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :just_audio:syncDebugLibJars UP-TO-DATE
+[        ] Caching disabled for task ':just_audio:syncDebugLibJars' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':just_audio:syncDebugLibJars' as it is up-to-date.
+[        ] Resolve mutations for :just_audio:bundleDebugAar (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :just_audio:bundleDebugAar (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :just_audio:bundleDebugAar UP-TO-DATE
+[        ] Caching disabled for task ':just_audio:bundleDebugAar' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':just_audio:bundleDebugAar' as it is up-to-date.
+[        ] Resolve mutations for :just_audio:assembleDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :just_audio:assembleDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :just_audio:assembleDebug UP-TO-DATE
+[        ] Skipping task ':just_audio:assembleDebug' as it has no actions.
+[        ] Resolve mutations for :shared_preferences_android:stripDebugDebugSymbols (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:stripDebugDebugSymbols (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:stripDebugDebugSymbols NO-SOURCE
+[        ] Skipping task ':shared_preferences_android:stripDebugDebugSymbols' as it has no source files and no previous output files.
+[        ] Resolve mutations for :shared_preferences_android:copyDebugJniLibsProjectAndLocalJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:copyDebugJniLibsProjectAndLocalJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:copyDebugJniLibsProjectAndLocalJars' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':shared_preferences_android:copyDebugJniLibsProjectAndLocalJars' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:extractDebugAnnotations (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:extractDebugAnnotations (Thread[#424,Execution worker Thread 6,5,main]) started.
+[  +65 ms] > Task :shared_preferences_android:extractDebugAnnotations UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:extractDebugAnnotations' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':shared_preferences_android:extractDebugAnnotations' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:extractDeepLinksForAarDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:extractDeepLinksForAarDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:extractDeepLinksForAarDebug UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:extractDeepLinksForAarDebug' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':shared_preferences_android:extractDeepLinksForAarDebug' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:mergeDebugGeneratedProguardFiles (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:mergeDebugGeneratedProguardFiles (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:mergeDebugGeneratedProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:mergeDebugGeneratedProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':shared_preferences_android:mergeDebugGeneratedProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:mergeDebugConsumerProguardFiles (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:mergeDebugConsumerProguardFiles (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:mergeDebugConsumerProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':shared_preferences_android:mergeDebugConsumerProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:prepareDebugArtProfile (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:prepareDebugArtProfile (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:prepareDebugArtProfile UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:prepareDebugArtProfile' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':shared_preferences_android:prepareDebugArtProfile' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:prepareLintJarForPublish (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:prepareLintJarForPublish (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:prepareLintJarForPublish UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:prepareLintJarForPublish' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':shared_preferences_android:prepareLintJarForPublish' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:mergeDebugJavaResource (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:mergeDebugJavaResource (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:mergeDebugJavaResource UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:mergeDebugJavaResource' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':shared_preferences_android:mergeDebugJavaResource' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:syncDebugLibJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:syncDebugLibJars (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:syncDebugLibJars UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:syncDebugLibJars' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':shared_preferences_android:syncDebugLibJars' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:bundleDebugAar (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:bundleDebugAar (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:bundleDebugAar UP-TO-DATE
+[        ] Caching disabled for task ':shared_preferences_android:bundleDebugAar' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':shared_preferences_android:bundleDebugAar' as it is up-to-date.
+[        ] Resolve mutations for :shared_preferences_android:assembleDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] :shared_preferences_android:assembleDebug (Thread[#424,Execution worker Thread 6,5,main]) started.
+[        ] > Task :shared_preferences_android:assembleDebug UP-TO-DATE
+[        ] Skipping task ':shared_preferences_android:assembleDebug' as it has no actions.
+[  +81 ms] Build d75048e9-ad7d-4b6c-89d7-84f7c9b18c88 is closed
+[        ] Build cfc81477-e7b5-4ff3-be79-0f3935ffd837 is closed
+[        ] [Incubating] Problems report is available at: file:///C:/Users/LENOVO/Downloads/flutter_mathquest%20-%20V6.0/build/reports/problems/problems-report.html
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] BUILD SUCCESSFUL in 20s
+[        ] 204 actionable tasks: 19 executed, 185 up-to-date
+[        ] Watched directory hierarchies: [C:\flutter\packages\flutter_tools\gradle, C:\Users\LENOVO\Downloads\flutter_mathquest - V6.0\android]
+[ +199 ms] Running Gradle task 'assembleDebug'... (completed in 21.0s)
+[  +42 ms] Calculate SHA1: LocalDirectory: 'C:\Users\LENOVO\Downloads\flutter_mathquest - V6.0\build\app\outputs\flutter-apk'/app-debug.apk
+[+3153 ms] ΓêÜ Built build\app\outputs\flutter-apk\app-debug.apk
+[  +53 ms] "flutter apk" took 29,314ms.
+[ +434 ms] Running 1 shutdown hook
+[   +9 ms] Shutdown hooks complete
+[ +237 ms] exiting with code 0

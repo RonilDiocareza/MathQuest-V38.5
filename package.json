@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase": "^12.15.0"
+  },
+  "scripts": {
+    "test:firestore-rules": "npx --yes firebase-tools@14.15.2 emulators:exec --only firestore --project demo-mathquest-rules \"node scripts/test_firestore_rules.mjs\""
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.0"
+  }
+}

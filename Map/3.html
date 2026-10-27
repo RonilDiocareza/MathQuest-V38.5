@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+    function getSum1 () {
+    //compute 1 
+    let n1 = document.getElementById('txtn1');
+    let n2 = document.getElementById('txtn2');
+    let res = document.getElementById('result');
+
+    let sum = parseInt(n1.value) + parseInt(n2.value);
+    res.innerHTML = 'The sum is ' + sum;
+    }
+    function getSum2 (x,y){ document.getElementById('result').innerHTML = 'The sum is '+ (x+y);}
+
+    function getSum4(){
+        let n1 = document.getElementById('txtn1');
+        let n2 = document.getElementById('txtn2');
+        let res = document.getElementById('result');
+        document.getElementById('result').innerHTML = isNaN(n1.value) || isNaN(n2.value) ? 'please int only ' : 'the sum is ' + (parseInt(n1.value) + parseInt(n2.value));
+    }
+    </script>
+</head>
+<body>
+    enter 1st integer : <input type="number" id="txtn1"><br>
+    enter 2nd integer : <input type="number" id="txtn2"><br>
+    <button onclick="getSum1()">compute 1</button>&nbsp;&nbsp;
+    <button onclick="getSum2(eval(document.getElementById('txtn1').value), eval(document.getElementById('txtn2').value))">compute 2</button>
+    <input type="button" value="compute 3" id="btn3">
+    <button onclick="getSum4()">compute 4</button>
+    <br><br><span id="result"></span>
+    <script>
+    document.getElementById('btn3').addEventListener("click", function(){
+        let n1 = document.getElementById('txtn1');
+        let n2 = document.getElementById('txtn2');
+        let res = document.getElementById('result');
+
+        let sum = parseInt(n1.value) + parseInt(n2.value);
+        res.innerHTML = "The sum is " + sum;
+    });
+        </script>
+</body>
+</html>

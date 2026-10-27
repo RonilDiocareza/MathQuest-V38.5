@@ -1,0 +1,256 @@
+﻿
+[   +1 ms] Resolve mutations for 
+:gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#419,Execution 
+worker,5,main]) started.
+[        ] :gradle:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#419,Execution worker,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' 
+as task onlyIf 'errorDiagnostics are present' is false.
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+[ +411 ms] Tasks to be executed: [task ':app:DebugMinSdkCheck', task 
+':app:preBuild', task ':app:preDebugBuild', task 
+':app:mergeDebugNativeDebugMetadata', task 
+':app:checkKotlinGradlePluginConfigurationErrors', task 
+':audio_session:preBuild', task ':audio_session:preDebugBuild', task 
+':audio_session:writeDebugAarMetadata', task ':jni:preBuild', task 
+':jni:preDebugBuild', task ':jni:writeDebugAarMetadata', task 
+':jni_flutter:preBuild', task ':jni_flutter:preDebugBuild', task 
+':jni_flutter:writeDebugAarMetadata', task ':just_audio:preBuild', task 
+':just_audio:preDebugBuild', task ':just_audio:writeDebugAarMetadata', task 
+':shared_preferences_android:preBuild', task 
+':shared_preferences_android:preDebugBuild', task 
+':shared_preferences_android:writeDebugAarMetadata', task 
+':app:checkDebugAarMetadata', task ':app:cleanMergeDebugAssets', task 
+':app:compileFlutterBuildDebug', task ':app:mergeDebugShaders', task 
+':app:compileDebugShaders', task ':app:generateDebugAssets', task 
+':audio_session:mergeDebugShaders', task ':audio_session:compileDebugShaders', 
+task ':audio_session:generateDebugAssets', task 
+':audio_session:mergeDebugAssets', task ':jni:mergeDebugShaders', task 
+':jni:compileDebugShaders', task ':jni:generateDebugAssets', task 
+':jni:mergeDebugAssets', task ':jni_flutter:mergeDebugShaders', task 
+':jni_flutter:compileDebugShaders', task ':jni_flutter:generateDebugAssets', 
+task ':jni_flutter:mergeDebugAssets', task ':just_audio:mergeDebugShaders', 
+task ':just_audio:compileDebugShaders', task 
+':just_audio:generateDebugAssets', task ':just_audio:mergeDebugAssets', task 
+':shared_preferences_android:mergeDebugShaders', task 
+':shared_preferences_android:compileDebugShaders', task 
+':shared_preferences_android:generateDebugAssets', task 
+':shared_preferences_android:mergeDebugAssets', task ':app:mergeDebugAssets', 
+task ':app:copyFlutterAssetsDebug', task ':app:generateDebugResValues', task 
+':audio_session:generateDebugResValues', task 
+':audio_session:generateDebugResources', task 
+':audio_session:packageDebugResources', task ':jni:generateDebugResValues', 
+task ':jni:generateDebugResources', task ':jni:packageDebugResources', task 
+':jni_flutter:generateDebugResValues', task 
+':jni_flutter:generateDebugResources', task 
+':jni_flutter:packageDebugResources', task 
+':just_audio:generateDebugResValues', task 
+':just_audio:generateDebugResources', task 
+':just_audio:packageDebugResources', task 
+':shared_preferences_android:generateDebugResValues', task 
+':shared_preferences_android:generateDebugResources', task 
+':shared_preferences_android:packageDebugResources', task 
+':app:mapDebugSourceSetPaths', task ':app:generateDebugResources', task 
+':app:mergeDebugResources', task ':app:packageDebugResources', task 
+':app:parseDebugLocalResources', task 
+':app:createDebugCompatibleScreenManifests', task 
+':app:extractDeepLinksDebug', task ':audio_session:extractDeepLinksDebug', 
+task ':audio_session:processDebugManifest', task ':jni:extractDeepLinksDebug', 
+task ':jni:processDebugManifest', task ':jni_flutter:extractDeepLinksDebug', 
+task ':jni_flutter:processDebugManifest', task 
+':just_audio:extractDeepLinksDebug', task ':just_audio:processDebugManifest', 
+task ':shared_preferences_android:extractDeepLinksDebug', task 
+':shared_preferences_android:processDebugManifest', task 
+':app:processDebugMainManifest', task ':app:outputDebugAppLinkSettings', task 
+':app:processDebugManifest', task ':app:processDebugManifestForPackage', task 
+':audio_session:compileDebugLibraryResources', task 
+':audio_session:parseDebugLocalResources', task 
+':audio_session:generateDebugRFile', task ':jni:compileDebugLibraryResources', 
+task ':jni:parseDebugLocalResources', task ':jni:generateDebugRFile', task 
+':jni_flutter:compileDebugLibraryResources', task 
+':jni_flutter:parseDebugLocalResources', task 
+':jni_flutter:generateDebugRFile', task 
+':just_audio:compileDebugLibraryResources', task 
+':just_audio:parseDebugLocalResources', task ':just_audio:generateDebugRFile', 
+task ':shared_preferences_android:compileDebugLibraryResources', task 
+':shared_preferences_android:parseDebugLocalResources', task 
+':shared_preferences_android:generateDebugRFile', task 
+':app:processDebugResources', task 
+':audio_session:checkKotlinGradlePluginConfigurationErrors', task 
+':audio_session:compileDebugKotlin', task 
+':audio_session:javaPreCompileDebug', task 
+':audio_session:compileDebugJavaWithJavac', task 
+':audio_session:bundleLibCompileToJarDebug', task 
+':jni:checkKotlinGradlePluginConfigurationErrors', task 
+':jni:compileDebugKotlin', task ':jni:javaPreCompileDebug', task 
+':jni:compileDebugJavaWithJavac', task ':jni:bundleLibCompileToJarDebug', task 
+':jni_flutter:checkKotlinGradlePluginConfigurationErrors', task 
+':jni_flutter:compileDebugKotlin', task ':jni_flutter:javaPreCompileDebug', 
+task ':jni_flutter:compileDebugJavaWithJavac', task 
+':jni_flutter:bundleLibCompileToJarDebug', task 
+':just_audio:checkKotlinGradlePluginConfigurationErrors', task 
+':just_audio:compileDebugKotlin', task ':just_audio:javaPreCompileDebug', task 
+':just_audio:compileDebugJavaWithJavac', task 
+':just_audio:bundleLibCompileToJarDebug', task 
+':shared_preferences_android:checkKotlinGradlePluginConfigurationErrors', task 
+':shared_preferences_android:compileDebugKotlin', task 
+':shared_preferences_android:javaPreCompileDebug', task 
+':shared_preferences_android:compileDebugJavaWithJavac', task 
+':shared_preferences_android:bundleLibCompileToJarDebug', task 
+':app:compileDebugKotlin', task ':app:javaPreCompileDebug', task 
+':app:compileDebugJavaWithJavac', task ':app:compressDebugAssets', task 
+':just_audio:bundleLibRuntimeToJarDebug', task 
+':audio_session:bundleLibRuntimeToJarDebug', task 
+':jni_flutter:bundleLibRuntimeToJarDebug', task 
+':jni:bundleLibRuntimeToJarDebug', task 
+':shared_preferences_android:bundleLibRuntimeToJarDebug', task 
+':app:desugarDebugFileDependencies', task ':app:dexBuilderDebug', task 
+':app:mergeDebugGlobalSynthetics', task ':app:processDebugJavaRes', task 
+':audio_session:processDebugJavaRes', task ':jni:processDebugJavaRes', task 
+':jni_flutter:processDebugJavaRes', task ':just_audio:processDebugJavaRes', 
+task ':shared_preferences_android:processDebugJavaRes', task 
+':app:mergeDebugJavaResource', task ':app:checkDebugDuplicateClasses', task 
+':app:mergeExtDexDebug', task ':just_audio:bundleLibRuntimeToDirDebug', task 
+':audio_session:bundleLibRuntimeToDirDebug', task 
+':jni_flutter:bundleLibRuntimeToDirDebug', task 
+':jni:bundleLibRuntimeToDirDebug', task 
+':shared_preferences_android:bundleLibRuntimeToDirDebug', task 
+':app:mergeLibDexDebug', task ':app:mergeProjectDexDebug', task 
+':app:configureCMakeDebug[arm64-v8a]', task ':app:buildCMakeDebug[arm64-v8a]', 
+task ':app:configureCMakeDebug[armeabi-v7a]', task 
+':app:buildCMakeDebug[armeabi-v7a]', task ':app:configureCMakeDebug[x86_64]', 
+task ':app:buildCMakeDebug[x86_64]', task ':app:copyJniLibsflutterBuildDebug', 
+task ':app:mergeDebugJniLibFolders', task 
+':audio_session:mergeDebugJniLibFolders', task 
+':audio_session:mergeDebugNativeLibs', task 
+':audio_session:copyDebugJniLibsProjectOnly', task ':jni:preProfileBuild', 
+task ':jni:configureCMakeDebug[arm64-v8a]', task 
+':jni:buildCMakeDebug[arm64-v8a]', task 
+':jni:configureCMakeDebug[armeabi-v7a]', task 
+':jni:buildCMakeDebug[armeabi-v7a]', task ':jni:configureCMakeDebug[x86]', 
+task ':jni:buildCMakeDebug[x86]', task ':jni:configureCMakeDebug[x86_64]', 
+task ':jni:buildCMakeDebug[x86_64]', task ':jni:mergeDebugJniLibFolders', task 
+':jni:mergeDebugNativeLibs', task ':jni:copyDebugJniLibsProjectOnly', task 
+':jni_flutter:mergeDebugJniLibFolders', task 
+':jni_flutter:mergeDebugNativeLibs', task 
+':jni_flutter:copyDebugJniLibsProjectOnly', task 
+':just_audio:mergeDebugJniLibFolders', task 
+':just_audio:mergeDebugNativeLibs', task 
+':just_audio:copyDebugJniLibsProjectOnly', task 
+':shared_preferences_android:mergeDebugJniLibFolders', task 
+':shared_preferences_android:mergeDebugNativeLibs', task 
+':shared_preferences_android:copyDebugJniLibsProjectOnly', task 
+':app:mergeDebugNativeLibs', task ':app:stripDebugDebugSymbols', task 
+':app:validateSigningDebug', task ':app:writeDebugAppMetadata', task 
+':app:writeDebugSigningConfigVersions', task ':app:packageDebug', task 
+':app:createDebugApkListingFileRedirect', task ':app:assembleDebug', task 
+':audio_session:stripDebugDebugSymbols', task 
+':audio_session:copyDebugJniLibsProjectAndLocalJars', task 
+':audio_session:extractDebugAnnotations', task 
+':audio_session:extractDeepLinksForAarDebug', task 
+':audio_session:mergeDebugGeneratedProguardFiles', task 
+':audio_session:mergeDebugConsumerProguardFiles', task 
+':audio_session:prepareDebugArtProfile', task 
+':audio_session:prepareLintJarForPublish', task 
+':audio_session:mergeDebugJavaResource', task 
+':audio_session:syncDebugLibJars', task ':audio_session:bundleDebugAar', task 
+':audio_session:assembleDebug', task ':jni:stripDebugDebugSymbols', task 
+':jni:copyDebugJniLibsProjectAndLocalJars', task 
+':jni:extractDebugAnnotations', task ':jni:extractDeepLinksForAarDebug', task 
+':jni:mergeDebugGeneratedProguardFiles', task 
+':jni:mergeDebugConsumerProguardFiles', task ':jni:prepareDebugArtProfile', 
+task ':jni:prepareLintJarForPublish', task ':jni:mergeDebugJavaResource', task 
+':jni:syncDebugLibJars', task ':jni:bundleDebugAar', task 
+':jni:assembleDebug', task ':jni_flutter:stripDebugDebugSymbols', task 
+':jni_flutter:copyDebugJniLibsProjectAndLocalJars', task 
+':jni_flutter:extractDebugAnnotations', task 
+':jni_flutter:extractDeepLinksForAarDebug', task 
+':jni_flutter:mergeDebugGeneratedProguardFiles', task 
+':jni_flutter:mergeDebugConsumerProguardFiles', task 
+':jni_flutter:prepareDebugArtProfile', task 
+':jni_flutter:prepareLintJarForPublish', task 
+':jni_flutter:mergeDebugJavaResource', task ':jni_flutter:syncDebugLibJars', 
+task ':jni_flutter:bundleDebugAar', task ':jni_flutter:assembleDebug', task 
+':just_audio:stripDebugDebugSymbols', task 
+':just_audio:copyDebugJniLibsProjectAndLocalJars', task 
+':just_audio:extractDebugAnnotations', task 
+':just_audio:extractDeepLinksForAarDebug', task 
+':just_audio:mergeDebugGeneratedProguardFiles', task 
+':just_audio:mergeDebugConsumerProguardFiles', task 
+':just_audio:prepareDebugArtProfile', task 
+':just_audio:prepareLintJarForPublish', task 
+':just_audio:mergeDebugJavaResource', task ':just_audio:syncDebugLibJars', 
+task ':just_audio:bundleDebugAar', task ':just_audio:assembleDebug', task 
+':shared_preferences_android:stripDebugDebugSymbols', task 
+':shared_preferences_android:copyDebugJniLibsProjectAndLocalJars', task 
+':shared_preferences_android:extractDebugAnnotations', task 
+':shared_preferences_android:extractDeepLinksForAarDebug', task 
+':shared_preferences_android:mergeDebugGeneratedProguardFiles', task 
+':shared_preferences_android:mergeDebugConsumerProguardFiles', task 
+':shared_preferences_android:prepareDebugArtProfile', task 
+':shared_preferences_android:prepareLintJarForPublish', task 
+':shared_preferences_android:mergeDebugJavaResource', task 
+':shared_preferences_android:syncDebugLibJars', task 
+':shared_preferences_android:bundleDebugAar', task 
+':shared_preferences_android:assembleDebug']
+[        ] Resolve mutations for 
+:app:checkKotlinGradlePluginConfigurationErrors (Thread[#423,Execution worker 
+Thread 5,5,main]) started.
+[        ] :app:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#423,Execution worker Thread 5,5,main]) started.
+[        ] > Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':app:checkKotlinGradlePluginConfigurationErrors' as 
+task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for 
+:audio_session:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#425,Execution worker Thread 7,5,main]) started.
+[        ] :audio_session:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#425,Execution worker Thread 7,5,main]) started.
+[        ] > Task :audio_session:checkKotlinGradlePluginConfigurationErrors 
+SKIPPED
+[        ] Skipping task 
+':audio_session:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 
+'errorDiagnostics are present' is false.
+[        ] Resolve mutations for 
+:jni:checkKotlinGradlePluginConfigurationErrors (Thread[#425,Execution worker 
+Thread 7,5,main]) started.
+[        ] :jni:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#425,Execution worker Thread 7,5,main]) started.
+[        ] > Task :jni:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':jni:checkKotlinGradlePluginConfigurationErrors' as 
+task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for 
+:jni_flutter:checkKotlinGradlePluginConfigurationErrors (Thread[#419,Execution 
+worker,5,main]) started.
+[        ] :jni_flutter:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#419,Execution worker,5,main]) started.
+[        ] > Task :jni_flutter:checkKotlinGradlePluginConfigurationErrors 
+SKIPPED
+[        ] Skipping task 
+':jni_flutter:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 
+'errorDiagnostics are present' is false.
+[        ] Resolve mutations for 
+:just_audio:checkKotlinGradlePluginConfigurationErrors (Thread[#419,Execution 
+worker,5,main]) started.
+[        ] :just_audio:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#419,Execution worker,5,main]) started.
+[        ] > Task :just_audio:checkKotlinGradlePluginConfigurationErrors 
+SKIPPED
+[        ] Skipping task 
+':just_audio:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 
+'errorDiagnostics are present' is false.
+[        ] Resolve mutations for 
+:shared_preferences_android:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#419,Execution worker,5,main]) started.
+[        ] 
+:shared_preferences_android:checkKotlinGradlePluginConfigurationErrors 
+(Thread[#419,Execution worker,5,main]) started.
+[        ] > Task 
+:shared_preferences_android:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task 
+':shared_preferences_android:checkKotlinGradlePluginConfigurationErrors' as 
+task onlyIf 'errorDiagnostics are present' is false.
+
+

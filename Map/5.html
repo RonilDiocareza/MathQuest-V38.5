@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body>
+    enter 1st integer : <input type="number" id="txtn1"><br>
+    enter 2nd integer : <input type="number" id="txtn2"><br>
+    <button onclick="getSum1()">compute 1</button>&nbsp;&nbsp;
+    <button onclick="getSum2(eval(document.getElementById('txtn1').value), eval(document.getElementById('txtn2').value))">compute 2</button>
+    <input type="button" value="compute 3" id="btn3">
+    <button onclick="getSum4()">compute 4</button>
+    <br><br><span id="result"></span>
+    <script>
+    document.getElementById('btn3').addEventListener("click", () =>{
+        let n1 = parseInt(document.getElementById('txtn1').value);
+        let n2 = parseInt(document.getElementById('txtn2').value);
+
+        const sum = getSum(n1,n2);
+        document.getElementById('result').textContent = `The sum is ${sum}`;
+    });
+
+    const getSum = (n1,n2) => n1 + n2;
+        </script>
+</body>
+</html>
